@@ -1,4 +1,4 @@
-Maintenance Ticket System
+## Maintenance Ticket System ##
 Project Overview:
 
 The Maintenance Ticket System is a web-based helpdesk application developed to manage and track maintenance issues efficiently.
@@ -7,7 +7,7 @@ The admin can manage all tickets, monitor ticket analytics, filter tickets, and 
 
 This project was developed using PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap.
 
-Features:
+# Features:
 
 User Registration & Login System
 Admin Authentication
@@ -23,7 +23,7 @@ Professional Dashboard Design
 Attachment Viewing System
 Ticket Closing System
 
-Modules:
+# Modules:
 
 -Admin Module:
 Admin Login
@@ -41,7 +41,7 @@ Upload Attachments
 View Personal Tickets
 Check Ticket Status
 
-Technologies Used:
+# Technologies Used:
 
 -Frontend:
 HTML5
@@ -82,7 +82,7 @@ helpdesk_system
 Username: admin
 Password: admin123
 
--Project Structure:
+# Project Structure:
 
 professional_maintenance_ticket_system
 │
@@ -99,7 +99,7 @@ professional_maintenance_ticket_system
 ├── close-ticket.php
 ├── style.css
 
-How to Run the Project:
+# How to Run the Project:
 
 Install XAMPP
 Start Apache and MySQL
@@ -115,16 +115,18 @@ helpdesk_system
 Import/Create required tables
 
 Open browser and run:
+http://localhost/maintenance_ticket_mngt_system/
 
-http://localhost/professional_maintenance_ticket_system/
-Future Enhancements
-Email Notifications
-REST API Integration
-PDF/Excel Export
-Live Notifications
-Role-Based Access Control
-Cloud Deployment
-Conclusion
+# Future Enhancements
+
+- Email Notifications
+- REST API Integration
+- PDF/Excel Export
+- Live Notifications
+- Role-Based Access Control
+- Cloud Deployment
+
+Conclusion:
 
 The Maintenance Ticket System simplifies maintenance issue management by providing an efficient platform for users and administrators.
 It improves issue tracking, communication, and ticket resolution using a modern web-based interface.
