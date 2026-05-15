@@ -1,0 +1,41 @@
+body{font-family:Segoe UI,sans-serif;background:#f4f7fc}
+.sidebar{
+    width:250px;
+    min-height:100vh;
+    position:fixed;
+    background:#111827;
+    color:#fff;
+    padding:20px;
+}
+.sidebar a{display:block;color:#d1d5db;text-decoration:none;padding:12px;border-radius:10px;margin-bottom:10px}
+.sidebar a:hover{background:#2563eb;color:#fff}
+.main{margin-left:270px;padding:20px}
+.card-box{border-radius:18px;color:#fff;padding:25px}
+.bg-blue{background:#2563eb}.bg-green{background:#16a34a}.bg-orange{background:#f59e0b}
+.login-bg{background:linear-gradient(135deg,#1e3a8a,#2563eb);height:100vh}
+.login-card{border-radius:20px}
+.dark{
+    background:#111827;
+    color:white;
+}
+
+.dark .card{
+    background:#1f2937;
+    color:white;
+}
+
+.dark input,
+.dark textarea,
+.dark select{
+    background:#374151;
+    color:white;
+    border:none;
+}
+
+.dark table{
+    color:white;
+}
+
+.dark .sidebar{
+    background:#000;
+}
