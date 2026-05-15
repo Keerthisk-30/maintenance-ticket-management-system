@@ -1,4 +1,4 @@
-                                Maintenance Ticket System
+Maintenance Ticket System
 Project Overview:
 
 The Maintenance Ticket System is a web-based helpdesk application developed to manage and track maintenance issues efficiently.
@@ -128,3 +128,4 @@ Conclusion
 
 The Maintenance Ticket System simplifies maintenance issue management by providing an efficient platform for users and administrators.
 It improves issue tracking, communication, and ticket resolution using a modern web-based interface.
+
